@@ -51,6 +51,7 @@
         <i class="fa fa-envelope-o"></i> <a href="mailto:contact@example.com">name@websitename.com</a>
         <i class="fa fa-phone"></i> 9583677447
       </div>
+      <h1><sdfdsf/h1>
       <div class="social-links float-right">
         <a href="#" class="twitter"><i class="fa fa-twitter"></i></a>
         <a href="#" class="facebook"><i class="fa fa-facebook"></i></a>
@@ -66,10 +67,8 @@
     <div class="container">
 
       <div id="logo" class="pull-left">
-          <a href="index.php">
-        <img src="img/main_logo.jpg" style="width: auto;height: 11vh;margin-top: -8px;">
+      	<img src="img/main_logo.jpg" style="width: auto;height: 60px;">
         <!-- <h1><a href="#body" class="scrollto"><span>M</span>irrors</a></h1>  -->
-        </a>
       </div>
 
       <nav id="nav-menu-container">
@@ -88,21 +87,25 @@
   </header>
 
   <section id="intro">
-
     <div class="intro-content">
+      <div class="intro-content-2">
       <h2><span>Hair & Skin Care</span><br>Best Saloon in City</h2>
       <div>
         <a href="banner.php" class="btn-get-started scrollto">OFFERS</a> 
       </div>
     </div>
+    </div>
     <div class="">
-      <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+    <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-100" src="img/intro-carousel/3.jpg" alt="First slide">
+      <img class="d-block w-100" src="img/intro-carousel/1.jpg" alt="First slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="img/intro-carousel/2.jpg" alt="Third slide">
+      <img class="d-block w-100" src="img/intro-carousel/2.jpg" alt="Second slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="img/intro-carousel/3.jpg" alt="Third slide">
     </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
@@ -114,8 +117,7 @@
     <span class="sr-only">Next</span>
   </a>
 </div>
-    </div>  
-
+    </div> 
   </section>
 
   <!-- #intro -->
