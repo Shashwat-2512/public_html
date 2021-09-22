@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -6,6 +5,7 @@
   <meta charset="utf-8">
   <title>Shringaar</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
   <meta content="" name="keywords">
   <meta content="" name="description">
   <meta content="Author" name="WebThemez">
@@ -122,11 +122,11 @@
     </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="carousel-control-prev-icon" aria-hidden="true" ></span>
     <span class="sr-only">Previous</span>
   </a>
   <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="carousel-control-next-icon" aria-hidden="true" ></span>
     <span class="sr-only">Next</span>
   </a>
 </div>
@@ -176,7 +176,7 @@
     <span class="sr-only">Previous</span>
   </a>
   <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="carousel-control-next-icon" aria-hidden="true" ></span>
     <span class="sr-only">Next</span>
   </a>
 </div>
