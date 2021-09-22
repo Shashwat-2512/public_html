@@ -203,6 +203,15 @@ div.content.remove_pad {
   height: 87vh;
     
 }
+@media (max-width: 768px) {
+  
+  #intro img {
+    height: 43vh;
+      
+  }
+}
+
+
 
 #intro .intro-content {
   /* position: absolute;
@@ -1359,4 +1368,3 @@ transition: all 0.4s ease-in-out;
     
   }
   }
-}
